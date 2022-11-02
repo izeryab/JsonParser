@@ -25,3 +25,7 @@ public class Main {
 	}
 
 }
+```
+
+## JAVA DOCS
+https://izeryab.github.io/JsonParser/JsonUtil.html
